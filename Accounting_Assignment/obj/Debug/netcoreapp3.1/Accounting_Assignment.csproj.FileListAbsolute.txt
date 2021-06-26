@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\bin\Debug\netcoreapp3.1\Accounting_Assignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Accounting_Assignment\obj\Debug\netcoreapp3.1\Accounting_Assignment.genruntimeconfig.cache

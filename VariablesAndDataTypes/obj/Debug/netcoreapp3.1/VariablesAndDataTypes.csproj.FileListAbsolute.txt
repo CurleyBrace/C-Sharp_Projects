@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.genruntimeconfig.cache
