@@ -10,3 +10,15 @@ C:\Users\Tommy\source\repos\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\ins
 C:\Users\Tommy\source\repos\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.dll
 C:\Users\Tommy\source\repos\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.pdb
 C:\Users\Tommy\source\repos\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.genruntimeconfig.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\bin\Debug\netcoreapp3.1\insuranceApprovalProgram.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\insuranceApprovalProgram\obj\Debug\netcoreapp3.1\insuranceApprovalProgram.genruntimeconfig.cache

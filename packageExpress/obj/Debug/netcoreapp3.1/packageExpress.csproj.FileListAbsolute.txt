@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\bin\Debug\netcoreapp3.1\packageExpress.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\packageExpress\obj\Debug\netcoreapp3.1\packageExpress.genruntimeconfig.cache
