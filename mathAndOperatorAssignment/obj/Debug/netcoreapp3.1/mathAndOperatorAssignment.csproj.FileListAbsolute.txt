@@ -1,0 +1,13 @@
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.exe
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.deps.json
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.runtimeconfig.json
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.dll
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\bin\Debug\netcoreapp3.1\mathAndOperatorAssignment.pdb
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.dll
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.pdb
+C:\Users\Tommy\source\repos\mathAndOperatorAssignment\obj\Debug\netcoreapp3.1\mathAndOperatorAssignment.genruntimeconfig.cache
