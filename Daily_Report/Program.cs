@@ -15,7 +15,7 @@ namespace Daily_Report
             string studentCourse = Console.ReadLine(); //Taking Input and Assigning to to studentCourse
 
             Console.WriteLine("What page number?"); //Asking for and taking input of Student Name
-            byte pageNum = Convert.ToByte(Console.ReadLine()); //Taking input and converting to a byte and assigning the name pageNum
+            int pageNum = Convert.ToInt32(Console.ReadLine()); //Taking input and converting to a int and assigning the name pageNum
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\""); //Asking for and taking input of Student Name
             Boolean studentHelp = Convert.ToBoolean(Console.ReadLine()); //Taking input and converting to a Boolean and assigning the name studentHelp
@@ -25,7 +25,7 @@ namespace Daily_Report
 
             Console.WriteLine("Is there any feedback you'd like to provide? Please be specific."); //Asking for and taking input of Student Name
             string studentFeedback = Console.ReadLine(); //Taking Input and Assigning to to studentFeedback
-
+ 
             Console.WriteLine("How many hours did you study today?"); //Asking for and taking input of Student Name
             float studentHours = float.Parse(Console.ReadLine()); //Taking input and converting to a float and assigning the name studentHours
 
