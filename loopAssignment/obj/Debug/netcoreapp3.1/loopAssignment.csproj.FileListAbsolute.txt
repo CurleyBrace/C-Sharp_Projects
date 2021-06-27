@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\bin\Debug\netcoreapp3.1\loopAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\loopAssignment\obj\Debug\netcoreapp3.1\loopAssignment.genruntimeconfig.cache
