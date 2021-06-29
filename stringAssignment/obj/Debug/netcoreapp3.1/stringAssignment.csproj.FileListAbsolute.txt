@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.genruntimeconfig.cache

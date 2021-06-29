@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.genruntimeconfig.cache
