@@ -1,0 +1,13 @@
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.exe
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.deps.json
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.runtimeconfig.json
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.dll
+C:\Users\Tommy\source\repos\listAndArrays\bin\Debug\netcoreapp3.1\listAndArrays.pdb
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.dll
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.pdb
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\listAndArrays\obj\Debug\netcoreapp3.1\listAndArrays.csproj.AssemblyReference.cache

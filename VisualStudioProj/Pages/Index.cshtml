@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Visual Studio Assignment</h1>
+    <p style="color:black">Here's the Image requested in the first Example. <br />
+                           Click on the Image to display JavaScript <br />
+                           Check out the Music Video Page for the Embedded Music Video.</p>
+    <img id="imgCont" src="~/img/puppies.jpg" height="200" width="350"/>
+
+
+    <div id="modalCont" class="modal"> <!--Modal Container-->
+        
+        <span class="close">&times;</span> <!--Modal Close Button-->
+
+        <img class="modalImg" id="pupImg" /> <!--Modal Contant-->
+
+        <div id="caption">Here's an adorable puppy!'</div> <!--Modal Caption-->
+    </div>
+</div>
+
+
+

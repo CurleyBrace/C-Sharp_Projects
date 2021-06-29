@@ -1,0 +1,12 @@
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.exe
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.deps.json
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.runtimeconfig.json
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.dll
+C:\Users\Tommy\source\repos\iteration\bin\Debug\netcoreapp3.1\iteration.pdb
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.dll
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.pdb
+C:\Users\Tommy\source\repos\iteration\obj\Debug\netcoreapp3.1\iteration.genruntimeconfig.cache
