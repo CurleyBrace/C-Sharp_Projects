@@ -87,7 +87,7 @@ namespace arrayAssignment
             arrayDisplay = arrayNum == 2 ? arrayRef.stringList[indexNum] :                                   //Assigning String List to Holding Var
                             arrayNum == 1 ? Convert.ToString(arrayRef.intArray[indexNum]) :                  //Assigning Int Array to Holding Var
                              arrayNum == 0 ? arrayRef.stringArray[indexNum] : "null";                        //Assigning String Array to Holding Var. Will return Null if none are returned.
-            Console.WriteLine("The object in the index "+indexNum+" is "+arrayDisplay+".");                                                                 //Prints the desired result that was assigned to the holding var
+            Console.WriteLine("The object in the index "+indexNum+" is "+arrayDisplay+".");                  //Prints the desired result that was assigned to the holding var
         }
 
 
