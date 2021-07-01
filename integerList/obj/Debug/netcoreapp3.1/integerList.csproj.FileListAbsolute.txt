@@ -1,0 +1,13 @@
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.exe
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.deps.json
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.runtimeconfig.json
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.dll
+C:\Users\Tommy\source\repos\integerList\bin\Debug\netcoreapp3.1\integerList.pdb
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.dll
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.pdb
+C:\Users\Tommy\source\repos\integerList\obj\Debug\netcoreapp3.1\integerList.genruntimeconfig.cache
