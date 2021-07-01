@@ -1,0 +1,12 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\bin\Debug\netcoreapp3.1\methodAssignmentP280.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAssignmentP280\obj\Debug\netcoreapp3.1\methodAssignmentP280.genruntimeconfig.cache
