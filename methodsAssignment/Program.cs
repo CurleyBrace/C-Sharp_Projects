@@ -11,7 +11,7 @@ namespace methodsAssignment
 
             while (x == true)                           //Start of While Loop
             {
-                try
+                try                                     //Start of Try Statement
                 {
                     Console.WriteLine("Please enter a number to add, divide and multiply by our pre-set number.");
                     int userInput = Convert.ToInt32(Console.ReadLine());    //Taking user input and converting to int
@@ -20,15 +20,15 @@ namespace methodsAssignment
                     Console.WriteLine("Your number divided into our number is: " + mathMethod.divideNum(userInput));  //Sending userinput and calling divideSum Method
                     Console.WriteLine("Your number multiplied by our number is: " + mathMethod.multiplyNum(userInput)); //Sending userinput and calling multiplySum Method
                 }
-                catch (DivideByZeroException ex)
+                catch (DivideByZeroException ex)       //If divided by Zero, return this
                 {
                     Console.WriteLine("You cannot divide by Zero.");
                 }
-                catch (Exception ex)
+                catch (Exception ex)                   //If any other error, return this
                 {
                     Console.WriteLine(ex);
                 }
-                finally
+                finally                                //Always ask if they'd like to repeat program
                 {
                     Console.WriteLine("\nWould you like to do another number? Yes/No");        //Requesting input for While Loop
                     string loopInput = Console.ReadLine();
