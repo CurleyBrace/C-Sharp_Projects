@@ -13,9 +13,8 @@ namespace methodAndObjectsAssignment
             employeeOne.id = 01;                           //Setting each Employee's ID 
             employeeTwo.id = 02;
 
-        
+            bool idEquals = employeeOne == employeeTwo;    //Displaying use of the Operator
 
-            Console.WriteLine("Do the employees have the same id: " + (employeeOne != employeeTwo));    //Displaying use of the Operator
             Console.ReadLine();
         }
 
