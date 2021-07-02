@@ -4,7 +4,7 @@ using System.Text;
 
 namespace methodAndObjectsAssignment
 {
-    public class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }               //Getting and setting FirstName
         public string LastName { get; set; }                //Getting and setting LastName
