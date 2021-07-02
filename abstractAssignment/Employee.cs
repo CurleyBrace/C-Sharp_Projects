@@ -6,6 +6,5 @@ namespace methodAndObjectsAssignment
 {
     public class Employee : Person          //Inheriting from Person
     {
-        
     }
 }
