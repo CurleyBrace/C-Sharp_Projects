@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace methodAndObjectsAssignment
 {
@@ -7,13 +9,22 @@ namespace methodAndObjectsAssignment
         static void Main(string[] args)
         {
 
+            Employee<string> employeeOne = new Employee<string>();       //Creating new Employee Object with DataType String
+            List<string> workExp = new List<string> { "Clerk", "Butcher", "Programmer" }; //Creating Temp List to add to Employee Object
+            employeeOne.things = workExp;
 
-            Employee employeeOne = new Employee();         //Creating new Employee Object
-            Employee employeeTwo = new Employee();
-            employeeOne.id = 01;                           //Setting each Employee's ID 
-            employeeTwo.id = 02;
+            Employee<int> employeeTwo = new Employee<int>();            //Creating new Employee Object with DataType String
+            List<int> yearsWorked = new List<int> { 5, 2, 9 };          //Temp List to add to EmployeeTwo
+            employeeTwo.things = yearsWorked;
 
-            bool idEquals = employeeOne == employeeTwo;    //Displaying use of the Operator
+            foreach (string thing in employeeOne.things)                //For Each loop to go through List with data type String and print each one
+            {
+                Console.WriteLine(thing);
+            }
+            foreach (int thing in employeeTwo.things)                   //For Each loop to go through List with data type Int and print each one
+            {
+                Console.WriteLine(thing);
+            }
 
             Console.ReadLine();
         }

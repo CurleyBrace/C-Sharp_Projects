@@ -10,3 +10,4 @@ C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Project
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.dll
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.pdb
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.genruntimeconfig.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.genruntimeconfig.cache
