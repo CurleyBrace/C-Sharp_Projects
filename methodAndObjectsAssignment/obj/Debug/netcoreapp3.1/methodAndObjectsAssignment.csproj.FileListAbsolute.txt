@@ -1,0 +1,12 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\bin\Debug\netcoreapp3.1\methodAndObjectsAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\methodAndObjectsAssignment\obj\Debug\netcoreapp3.1\methodAndObjectsAssignment.genruntimeconfig.cache
