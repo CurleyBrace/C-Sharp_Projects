@@ -7,7 +7,11 @@ namespace methodAndObjectsAssignment
     public class Employee : Person, IQuittable          //Inheriting from Person
     {
         public int id { get; set; }                     //Assigning a property to Employee as ID
-                                                        
+
+        
+
+
+
                     //Returning a value of true if the id's of Employee are the ==
         public static bool operator == (Employee employee1, Employee employee2) 
         {
