@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\bin\Debug\netcoreapp3.1\classSubmissionAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\classSubmissionAssignment\obj\Debug\netcoreapp3.1\classSubmissionAssignment.genruntimeconfig.cache
