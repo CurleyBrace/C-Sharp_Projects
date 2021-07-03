@@ -1,0 +1,13 @@
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.exe
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\source\repos\TwentyOne\bin\Release\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Release\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache

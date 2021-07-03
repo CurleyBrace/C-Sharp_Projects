@@ -1,0 +1,16 @@
+C:\Users\Tommy\source\repos\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\Tommy\source\repos\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Tommy\source\repos\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Tommy\source\repos\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Tommy\source\repos\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.pdb

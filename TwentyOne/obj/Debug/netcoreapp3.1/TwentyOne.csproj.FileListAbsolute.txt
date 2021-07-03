@@ -1,0 +1,29 @@
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\source\repos\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\source\repos\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
