@@ -1,0 +1,13 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\bin\Debug\netcoreapp3.1\dateTimeSubmission.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\dateTimeSubmission\obj\Debug\netcoreapp3.1\dateTimeSubmission.genruntimeconfig.cache
