@@ -1,0 +1,12 @@
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.exe
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.deps.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.runtimeconfig.dev.json
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\bin\Debug\netcoreapp3.1\tryCatchAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.AssemblyInfo.cs
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.dll
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\tryCatchAssignment\obj\Debug\netcoreapp3.1\tryCatchAssignment.genruntimeconfig.cache

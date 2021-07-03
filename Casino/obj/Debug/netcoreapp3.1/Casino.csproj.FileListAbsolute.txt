@@ -14,3 +14,4 @@ C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Project
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Tommy\Documents\HTML and CSS Projects\Tech Academy Work\C-Sharp_Projects\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
