@@ -1,5 +1,9 @@
-﻿using System;
+﻿using NewsLetterAppMVC.Models;
+using NewsLetterAppMVC.ViewModels;
+using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -14,23 +18,26 @@ namespace NewsLetterAppMVC.Controllers
         }
 
         [HttpPost]
-        public ActionResult SignUp(string FirstName, string LastName, string EmailAddress)
+        public ActionResult SignUp(string firstName, string lastName, string emailAddress)
         {
-            return null;
-        }
+            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(emailAddress))
+            {
+                return View("~/Views/Shared/Error.cshtml");
+            }
+            else
+            {
+                using (NewsletterEntities db = new NewsletterEntities())
+                {
+                    var signup = new SignUp();
+                    signup.FirstName = firstName;
+                    signup.LastName = lastName;
+                    signup.EmailAddress = emailAddress;
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+                    db.SignUps.Add(signup);
+                    db.SaveChanges();
+                }
+                    return View("Success");
+            }
         }
     }
 }
