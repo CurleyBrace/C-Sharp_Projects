@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+
+@{
+  ViewData["Title"] = "Home page";
+}
+
+<script type="text/javascript">
+  function refreshClock() {
+    var refresh = 1000;
+    mytime = setTimeout('displayCt()', refresh)
+  }
+
+  function displayCt() {
+    var date = new Date();
+    document.getElementById('time').innerHTML = date;
+    refreshClock();
+  }
+</script>
+
+<div class="text-center">
+  <h2 class="display-4">Current Time</h2>
+  <div class="card mx-0"></div>
+  <body onload=displayCt();>
+    <div class="updateTime">
+      <p id="time"></p>
+    </div>
+  </body>
+</div>
+
+

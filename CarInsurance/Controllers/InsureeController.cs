@@ -138,7 +138,7 @@ namespace CarInsurance.Controllers
             int age = todaysDate.Year - insuree.DateOfBirth.Year;
 
             if(age <= 18) { quote += 100; }
-            else if(age > 18 && age < 25) { quote += 50; }
+            else if(age > 18 && age < 26) { quote += 50; }
             else { quote += 25; }
 
             if(insuree.CarYear < 2000) { quote += 25; }
@@ -150,7 +150,7 @@ namespace CarInsurance.Controllers
                 else { quote += 25; }
             }
 
-            if(insuree.SpeedingTickets != 0) { quote += insuree.SpeedingTickets * 10; }
+            if(insuree.SpeedingTickets > 0) { quote += insuree.SpeedingTickets * 10; }
             if(insuree.DUI == true) { quote += quote/4; }
             if(insuree.CoverageType == true) { quote += quote / 2; }
 
